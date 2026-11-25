@@ -1,0 +1,22 @@
+{
+  "name": "poster-print-designer",
+  "version": "1.0.0",
+  "description": "Poster design skill with real print discipline — headline hierarchy, layout spec, A3/A4 print-ready specs with bleed and CMYK-safe colours, plus matching social crops.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/poster-print-designer",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "poster-design",
+    "print-design",
+    "graphic-design",
+    "design-tools",
+    "marketing-design",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
